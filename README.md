@@ -16,4 +16,7 @@ Passo a passo de como executar na sua máquina:
 - Inicie a aplicação:
 ``` yarn start ```
 
-![screenshot]("https://raw.githubusercontent.com/LucianErick/podcastr-next/main/podcastr.png")
+<p align="start">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/LucianErick/podcastr-next/main/podcastr.png" width="980" title="screenshot">
+</p>
