@@ -1,3 +1,7 @@
+## Aplicação Desenvolvida durante a 5º edição da Next Level Week
+
+### Tecnologias como NextJS, TypeScript e JSON-Server foram essenciais na construção.
+
 Passo a passo de como executar na sua máquina:
 
 - Clone o repositório e acesse a pasta:
@@ -11,3 +15,5 @@ Passo a passo de como executar na sua máquina:
 
 - Inicie a aplicação:
 ``` yarn start ```
+
+![screenshot]("podcastr.png")
